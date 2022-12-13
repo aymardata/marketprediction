@@ -1,0 +1,9 @@
+{
+	"name": "marketpredictionetl",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ad438760-aa73-4eac-bd0a-6d55688cc965",
+		"tenantId": "c94c4272-f15f-4cb2-ad7f-a89db89fd5ff"
+	}
+}
